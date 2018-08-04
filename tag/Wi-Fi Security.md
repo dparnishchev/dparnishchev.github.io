@@ -1,4 +1,4 @@
 ---
 layout: tag_index
-tag: Wi-Fi Security 
+tag: Wi-Fi Security
 ---
