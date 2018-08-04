@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wi-Fi Overview"
-date:   2018-02-25 14:13:28 +0300
+date:   2018-08-04 16:40:00 +0300
 categories: Wi-Fi.
 ---
 Wi-Fi (Wireless Fidelity) is a commercial name for IEEE 802.11 family of specifications. This technology is widely used in such applications as wireless Internet access, and wireless TV. IEEE 802.11 standards define physical layer (PHY) and channel layer (Medium Access Control, MAC). Higher layers are the same as for wired networks. Physical layer defines the translation type, speed, frequency channels, signal modulation types and so on.
