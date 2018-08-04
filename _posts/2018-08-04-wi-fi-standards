@@ -2,11 +2,10 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2018-02-25 14:13:28 +0300
-categories: First Post. Fast typing.
+categories: Wi-Fi.
 ---
-Finally started my own blog!
-It will be about practical infosec and my path in it as a growing specialist.
-I decided to the first entry to a skill not directly related to the infosec, but still useful for people working with those digital devices called computers. It's Blind typing using all 10 fingers.
+Wi-Fi (Wireless Fidelity) is a commercial name for IEEE 802.11 family of specifications. This technology is widely used in such applications as wireless Internet access, and wireless TV. IEEE 802.11 standards define physical layer (PHY) and channel layer (Medium Access Control, MAC). Higher layers are the same as for wired networks. Physical layer defines the translation type, speed, frequency channels, signal modulation types and so on.
+MAC-layer controls channel usage by different stations (practically it answers the question "Who's gonna translate next?"). It contains technologies for addressing, authenticating users, and protecting (encrypting) translated data.
 
 
 
