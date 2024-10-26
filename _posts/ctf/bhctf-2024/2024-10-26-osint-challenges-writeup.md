@@ -64,15 +64,13 @@ As in the previous challenge, I used [Google Image Search](https://images.google
 
 ## Scanning plates
 What country’s license place is this? The answer format is just the country’s name.
-![car](assets/img/2024-10-05-block_harbor_ctf_2024_osint/license.plate.png)
-{: w="700" h="400" }
+![car](assets/img/2024-10-05-block_harbor_ctf_2024_osint/license.plate.png){: w="700" h="400" }
 _License plate with unknown country of origin_
 
 ---
 ### Google Images
 Again, I used [Google Image Search](https://images.google.com/) to search by provided image. But this time I searched only part of the image - the license plate:
-![car](assets/img/2024-10-05-block_harbor_ctf_2024_osint/plate_search.png)
-{: w="700" h="400" }
+![car](assets/img/2024-10-05-block_harbor_ctf_2024_osint/plate_search.png){: w="700" h="400" }
 _Search by selected image area_
 
 Found this link: https://www.olavsplates.com/lithuania.html Which shows exactly the same mark on the license plates issued in Lithuania.
