@@ -73,6 +73,7 @@ Again, I used [Google Image Search](https://images.google.com/) to search by pro
 ![car](assets/img/2024-10-05-block_harbor_ctf_2024_osint/plate_search.png){: w="700" h="400" }
 _Search by selected image area_
 
-Found this link: https://www.olavsplates.com/lithuania.html Which shows exactly the same mark on the license plates issued in Lithuania.
+Found this link: [https://www.olavsplates.com/lithuania.html](https://www.olavsplates.com/lithuania.html) 
+The link shows exactly the same mark on the license plates issued in Lithuania.
 ### Flag
 `Lithuania`
