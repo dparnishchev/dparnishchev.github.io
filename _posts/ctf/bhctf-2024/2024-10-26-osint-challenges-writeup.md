@@ -1,8 +1,12 @@
 ---
 title: BlockHarbor CTF 2024 Tasks - OSINT
 date: 2024-10-05 14:17:00 +0200
-categories: [CTF, BHCTF_2024]
-tags: [ctf, ctf_osint]     # TAG names should always be lowercase
+categories:
+  - CTF
+  - BHCTF-2024
+tags:
+  - ctf
+  - ctf-osint
 description: My solutions for OSINT challenges of the BlockHarbor CTF 2024
 ---
 
