@@ -1,6 +1,6 @@
 ---
 title: BlockHarbor CTF 2024 Tasks - OSINT
-date: 2024-10-05 14:17:00 +0200
+date: 2024-10-26 22:45:00 +0200
 categories:
   - CTF
   - BHCTF-2024
