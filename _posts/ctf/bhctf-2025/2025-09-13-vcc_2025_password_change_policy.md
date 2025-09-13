@@ -351,7 +351,7 @@ We are dealing with ARMhf, which stands for ARM with Hard Float.
 
 ### Loading binary to IDA
 If you have IDA, you can drop the file to it and get a loader `cortex_m.py` ready to do CPU selection, memory segment mapping and code marking for you:
-![[img3.png]]
+![[/assets/files/bhctf-2025/img3.png]]
 That's why I told that CPU architecture recognition can be skipped this time.
 
 If you have to load the binary manually, I remind that the loading address from UDS dump was  `0x44080000`. Select ARM little-endian as CPU architecture.
